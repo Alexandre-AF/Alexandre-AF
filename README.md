@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Alexandre
 
-<!--
-**Alexandre-AF/Alexandre-AF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+🚀 Em transição de carreira para a área de Tecnologia
+🐍 Atualmente estudando Python e lógica de programação
+📚 Construindo projetos para colocar meus estudos em prática
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Git & GitHub
+* Excel
+* HTML & CSS
+
+## 📂 Projetos
+
+Atualmente estou desenvolvendo projetos de estudo para praticar programação e consolidar meus conhecimentos.
+
+Entre eles:
+
+* 🎯 **Gerenciador de Tarefas** — aplicação de linha de comando em Python
+* 🎲 **Jogo de Adivinhação** — jogo com número aleatório e tratamento de entradas
+* 🧮 **Calculadora** — projeto utilizando funções, módulos e tratamento de erros
+
+## 🎯 Atualmente
+
+Estou buscando minha primeira oportunidade profissional na área de TI, enquanto continuo estudando e desenvolvendo projetos.
+
+Meu objetivo é evoluir constantemente, aprender novas tecnologias e transformar meus estudos em experiências práticas.
+
+### 🔗 Onde me encontrar
+
+[LinkedIn](https://www.linkedin.com/in/alexandreafeijo/) · [GitHub](https://github.com/Alexandre-AF)
